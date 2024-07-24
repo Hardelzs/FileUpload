@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    padding: 20px;
+}
+#real-file{
+    display: none;
+}
+#btn{
+    padding: 10px;
+    background: purple;
+    border: black 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn2{
+    padding: 8px;
+    background: rgb(94, 94, 236);
+    border: black 2px solid;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+#dev{
+    margin-top: 4%;
+    margin-left: 2%;
+}
